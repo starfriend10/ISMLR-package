@@ -27,4 +27,6 @@ The ISMLR application can:
 
 Visit: https://junjiezhublog.wordpress.com/ismlr/ for more information and updates.
 
-<img src="https://junjiezhublog.files.wordpress.com/2018/07/ismlr-package_interface.png" width="400">
+<img src="https://junjiezhublog.files.wordpress.com/2018/07/ismlr-package_interface.png" width="500">
+
+<img src="https://junjiezhublog.files.wordpress.com/2018/03/ismlr-application-ver-1-2.png?w=1920">
