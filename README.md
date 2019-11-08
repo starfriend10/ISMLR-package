@@ -29,4 +29,4 @@ Visit: https://junjiezhublog.wordpress.com/ismlr/ for more information and updat
 
 ![ISMLR package interface](https://junjiezhublog.files.wordpress.com/2018/07/ismlr-package_interface.png){:height="50%" width="50%"}
 
-
+<img src="https://junjiezhublog.files.wordpress.com/2018/07/ismlr-package_interface.png" width="100" height="100">
