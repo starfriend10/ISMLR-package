@@ -1,5 +1,10 @@
 # ISMLR-package
 
+We published a paper that used ISMLR package to predict future influent wastewater flowrate:
+
+Jun-Jie Zhu, & Paul R. Anderson. (2019). Performance evaluation of the ISMLR package for predicting the next day's influent wastewater flowrate at Kirie WRP. Water Sci. Technol. wst2019309. doi: https://doi.org/10.2166/wst.2019.309
+
+
 ISMLR package version includes data preprocessing tools and the ISMLR application.
 
 Data preprocessing tools include:
@@ -21,8 +26,3 @@ The ISMLR application can:
 • Produce pretreated datasets for a subsequent prediction using a more advanced algorithm
 
 Visit: https://junjiezhublog.wordpress.com/ismlr/ for more information and updates.
-
-
-We published a paper that used ISMLR package to predict future wastewater flowrate:
-
-Jun-Jie Zhu, & Paul R. Anderson. (2019). Performance evaluation of the ISMLR package for predicting the next day's influent wastewater flowrate at Kirie WRP. Water Sci. Technol. wst2019309. doi: https://doi.org/10.2166/wst.2019.309
