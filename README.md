@@ -26,3 +26,7 @@ The ISMLR application can:
 • Produce pretreated datasets for a subsequent prediction using a more advanced algorithm
 
 Visit: https://junjiezhublog.wordpress.com/ismlr/ for more information and updates.
+
+![ISMLR package interface](https://junjiezhublog.files.wordpress.com/2018/07/ismlr-package_interface.png)
+
+
