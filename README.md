@@ -51,8 +51,8 @@ ISMLR was first introduced by Zhu and Anderson (2016):
 Zhu, J. J., & Anderson, P. R. (2016). Assessment of a soft sensor approach for determining influent conditions at the MWRDGC Calumet WRP. Journal of Environmental Engineering, 142(6), 04016023. doi: https://doi.org/10.1061/(ASCE)EE.1943-7870.0001097
 
 
-ISMLR was also used in my following research:
-> [!NOTE]
+> [!NOTE] ISMLR was also used in my following research:
+
 > * Zhu, J. J., Kang, L., & Anderson, P. R. (2018). Predicting influent biochemical oxygen demand: Balancing energy demand and risk management. Water research, 128, 304-313. doi: https://doi.org/10.1016/j.watres.2017.10.053
 
 > * Zhu, J. J., Chen, Y. C., Shie, R. H., Liu, Z. S., & Hsu, C. Y. (2021). Predicting carbonaceous aerosols and identifying their source contribution with advanced approaches. Chemosphere, 266, 128966. https://doi.org/10.1016/j.chemosphere.2020.128966
